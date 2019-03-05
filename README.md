@@ -1,2 +1,2 @@
-# Political Parties with FCA
+# Knowledge Representation with FCA
 This repository 
