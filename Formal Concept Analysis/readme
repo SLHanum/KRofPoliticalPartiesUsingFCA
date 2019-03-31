@@ -3,4 +3,4 @@ This folder is organized as follows:
 1. Political Parties.cex is a file of format .cex containing the formal context and concept lattice---the implementation of Formal Concept 
 Analysis---of Indonesia's political parties' ideological characteristics. This file can be run on ConExp version 1.3 over the Windows 10
 operating system. 
-2. 
+2. latticeFull.png is a file of format .png containing the preview of Concept Lattice figure.
